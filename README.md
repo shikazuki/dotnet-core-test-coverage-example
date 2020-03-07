@@ -1,0 +1,1 @@
+# dotnet-core-test-coverage-example
